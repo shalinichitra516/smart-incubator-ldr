@@ -38,7 +38,7 @@ To overcome this problem, we developed an automatic lighting system using an LDR
 
 **Result**
 
-![][image1]
+![image1](result.jpg)
 
 The prototype was successfully implemented and tested. The LDR detected changes in light intensity, and the LED automatically switched ON when the environment became dark. This improved visibility inside the incubator model.
 
